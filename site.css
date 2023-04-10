@@ -1,0 +1,78 @@
+
+body{
+    position: relative;
+width: 1322px;
+height: 2048px;
+
+background: linear-gradient(118.91deg, rgba(76, 79, 104, 0.61) 13.52%, #342C2C 61.79%);
+}
+
+.capivara-titulo{
+
+    position: absolute;
+    width: 506px;
+    height: 61px;
+    left: 23px;
+    top: 2px;
+    
+    font-family: 'IM FELL Great Primer';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    
+    color: #000000;
+}
+
+.home{
+    position: absolute;
+width: 93px;
+height: 32px;
+left: 1048px;
+top: 0px;
+
+font-family: 'IM FELL Great Primer';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 37px;
+
+color: #000000;
+
+}
+
+.ajuda{
+
+    position: absolute;
+    width: 93px;
+    height: 32px;
+    left: 1200px;
+    top: 0px;
+    
+    font-family: 'IM FELL Great Primer';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    
+    
+}
+
+
+.capivarona{
+    position: absolute;
+width: 1360px;
+height: 427px;
+left: 0px;
+top: 4px;
+
+background: url(1583748930ic5e661742ed9ab-og.png);
+position: absolute;
+width: 1324px;
+height: 412px;
+left: 0px;
+top: 0px;
+
+background: url(1583748930ic5e661742ed9ab-og.png);
+
+}
