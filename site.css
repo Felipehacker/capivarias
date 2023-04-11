@@ -2,7 +2,7 @@
 body{
     position: relative;
 width: 1322px;
-height: 2048px;
+height: 4096px;
 
 background: linear-gradient(118.91deg, rgba(76, 79, 104, 0.61) 13.52%, #342C2C 61.79%);
 }
@@ -28,7 +28,7 @@ background: linear-gradient(118.91deg, rgba(76, 79, 104, 0.61) 13.52%, #342C2C 6
     position: absolute;
 width: 93px;
 height: 32px;
-left: 1048px;
+left: 1650px;
 top: 0px;
 
 font-family: 'IM FELL Great Primer';
@@ -44,9 +44,9 @@ color: #000000;
 .ajuda{
 
     position: absolute;
-    width: 93px;
+    width: 118px;
     height: 32px;
-    left: 1200px;
+    left: 1780px;
     top: 0px;
     
     font-family: 'IM FELL Great Primer';
@@ -58,21 +58,107 @@ color: #000000;
     
 }
 
-
 .capivarona{
     position: absolute;
-width: 1360px;
-height: 427px;
-left: 0px;
-top: 4px;
-
-background: url(1583748930ic5e661742ed9ab-og.png);
-position: absolute;
-width: 1324px;
-height: 412px;
-left: 0px;
-top: 0px;
-
-background: url(1583748930ic5e661742ed9ab-og.png);
+    width: 1900px;
+    height: 512px;
+    left: 0px;
+    top: 0px;
+    
+    background: url(1583748930ic5e661742ed9ab-og.png);
 
 }
+.cubo{
+    position: absolute;
+width: 1045px;
+height: 115px;
+left: 500px;
+top: 312px;
+
+background-color: #0000009d;
+}
+
+.nokubo{
+
+position: absolute;
+width: 231px;
+height: 94px;
+left: 510px;
+top: 322px;
+
+background: rgba(0, 0, 0, 0.342);
+
+}
+.nokubo2{
+
+    position: absolute;
+    width: 231px;
+    height: 94px;
+    left: 775px;
+    top: 322px;
+    
+    background: rgba(0, 0, 0, 0.342);
+    }
+
+.nokubo3{
+
+        position: absolute;
+        width: 231px;
+        height: 94px;
+        left: 1040px;
+        top: 322px;
+        
+        background: rgba(0, 0, 0, 0.342);
+        
+        }
+
+.nokubo4{
+
+            position: absolute;
+            width: 231px;
+            height: 94px;
+            left: 1300px;
+            top: 322px;
+            
+            background: rgba(0, 0, 0, 0.342);
+            
+            }
+ .quadradum{
+
+    position: absolute;
+    width: 404px;
+    height: 388px;
+    left: 32px;
+    top: 600px;
+    
+    background: rgba(66, 75, 97, 0.92);
+    border-radius: 59px;
+ }           
+
+ 
+ .quadra2{position: absolute;
+    width: 404px;
+    height: 388px;
+    left: 1480px;
+    top: 600px;
+    
+    background: rgba(66, 75, 97, 0.92);
+    border-radius: 59px;}
+ 
+    .quadra3{position: absolute;
+    width: 404px;
+    height: 388px;
+    left: 504px;
+    top: 600px;
+    
+    background: rgba(66, 75, 97, 0.92);
+    border-radius: 59px;}
+ 
+    .quadra4{position: absolute;
+    width: 404px;
+    height: 388px;
+    left: 996px;
+    top: 600px;
+    
+    background: rgba(66, 75, 97, 0.92);
+    border-radius: 59px;}
