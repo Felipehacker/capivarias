@@ -88,6 +88,7 @@ top: 322px;
 
 background: rgba(0, 0, 0, 0.342);
 
+
 }
 .nokubo2{
 
@@ -162,3 +163,27 @@ background: rgba(0, 0, 0, 0.342);
     
     background: rgba(66, 75, 97, 0.92);
     border-radius: 59px;}
+
+    .nokubotx{
+
+        position: absolute;
+        width: 231px;
+        height: 94px;
+        left: 510px;
+        top: 322px;
+        
+    }
+    .nokubo:hover{
+        background-color: white;
+    }
+    .nokubo2:hover{
+        background-color: white;
+    }
+    .nokubo3:hover{
+        background-color: white;
+    }
+    .nokubo4:hover{
+        background-color: white;
+    }
+
+
